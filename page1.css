@@ -1,0 +1,29 @@
+@media(max-width: 768px){
+    h1{
+        text-align: center;
+        margin-top: 50px;
+        font-size: 24px;
+    }
+    a{
+        display: block;
+        margin-top: 20px;
+        font-size: 18px;
+        text-align: center;
+    }
+}
+@media(min-width: 768px){
+    h1{
+        margin-top: 20%;
+        font-size: 48px;
+    }
+    a{
+        display: inline-block;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+}
+.my-link{
+    text-align: center;
+    align-items: center;
+}
